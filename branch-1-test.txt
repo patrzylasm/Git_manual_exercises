@@ -1,1 +1,2 @@
-Tekst w pliku gałąź 1 po edycji z gałezi conflict
+Tekst w pliku po usunięciu konfliktu
+
