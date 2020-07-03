@@ -1,1 +1,1 @@
-Tekst w pliku gałąź 1
+Tekst w pliku gałąź 1 po edycji w gałęzi branch-conflict-2
